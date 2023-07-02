@@ -5,3 +5,5 @@ faiss-cpu
 openai
 streamlit
 langchain
+InstructorEmbedding 
+sentence_transformers
